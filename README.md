@@ -1,8 +1,9 @@
 ## Hi there 👋
 
 ### :books: I’m currently learning ...
-<img src = "https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white"/></a>
 <img src = "https://img.shields.io/badge/c++-00599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img src = "https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white"/></a>
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
@@ -44,7 +45,7 @@ align="center"
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pupureum&show_icons=true&theme=react)
 
-### :mailbox_with_mail: Contacts
+### :mailbox_with_mail: Contact
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=for-the-badge&logo=github&link=https://soo-vely-dev.tistory.com/)](https://plee.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:pureuml.dev@gmail.com)](mailto:pureuml.dev@gmail.com)
 
