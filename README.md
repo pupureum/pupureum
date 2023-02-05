@@ -48,7 +48,8 @@ align="center"
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pupureum&show_icons=true&theme=react)
 
 ### :mailbox_with_mail: Contact
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=for-the-badge&logo=github&link=https://soo-vely-dev.tistory.com/)](https://plee.tistory.com/)
+<!--
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=for-the-badge&logo=github&link=https://soo-vely-dev.tistory.com/)](https://plee.tistory.com/) -->
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:pureuml.dev@gmail.com)](mailto:pureuml.dev@gmail.com)
 
 <!--
